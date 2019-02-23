@@ -1,0 +1,28 @@
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_PartialAppManifest.items
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/optimized/
+/Users/defaultuser/Desktop/chuck/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/defaultuser/Desktop/chuck/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/defaultuser/Desktop/chuck/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/defaultuser/Desktop/chuck/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/optimized/
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/actool/_PartialAppManifest.items
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/defaultuser/Desktop/chuck_finalversion v2.471/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/optimized/
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/optimized/
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/defaultuser/Desktop/chuck_finalversion v2.481/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

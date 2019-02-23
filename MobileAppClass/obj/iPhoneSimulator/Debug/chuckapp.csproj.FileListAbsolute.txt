@@ -1,0 +1,30 @@
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/actool/_PartialAppManifest.items
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/coremlc/_PartialAppManifest.items
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/optimized/
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/chuckapp.csproj.CoreCompileInputs.cache
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/chuckapp.csproj.CopyComplete
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/jerimiahhuston/Desktop/chuck_finalversion v2.491(updateneedsfixed)/MobileAppClass/obj/iPhoneSimulator/Debug/chuckapp.csprojAssemblyReference.cache
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/bin/iPhoneSimulator/Debug/MobileAppClass.pdb
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/actool/_PartialAppManifest.items
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/coremlc/_PartialAppManifest.items
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-12.1/optimized/
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/chuckapp.csprojAssemblyReference.cache
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/chuckapp.csproj.CoreCompileInputs.cache
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/chuckapp.csproj.CopyComplete
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.exe
+/Users/jerimiahhuston/Desktop/chuckappnewserveradaptionv3/MobileAppClass/obj/iPhoneSimulator/Debug/MobileAppClass.pdb
